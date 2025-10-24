@@ -1,4 +1,4 @@
-package com.tnsif.Assignment3;
+package com.tnsif.Assignment_3;
 public class bank {
     // Static variable to keep total number of accounts
     private static int totalAccounts = 0;

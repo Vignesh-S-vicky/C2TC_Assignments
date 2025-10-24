@@ -1,4 +1,4 @@
-package com.tnsif.Assignment5;
+package com.tnsif.Assignment_5;
 public class TicketBooking {
     // Private attributes
     private String stageEvent;

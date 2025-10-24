@@ -1,4 +1,4 @@
-package com.tnsif.Assignment3;
+package com.tnsif.Assignment_3;
 public abstract class Account extends bank {
     protected String accountHolderName;
     protected double balance;

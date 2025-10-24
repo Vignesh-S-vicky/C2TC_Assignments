@@ -1,4 +1,4 @@
-package com.tnsif.Assignment5;
+package com.tnsif.Assignment_5;
 
 import java.util.Scanner;
 

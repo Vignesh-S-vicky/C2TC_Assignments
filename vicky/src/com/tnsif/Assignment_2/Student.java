@@ -1,4 +1,4 @@
-package com.tnsif.assignment_two;
+package com.tnsif.Assignment_2;
 
 /**
  * Student class with a default constructor.

@@ -1,4 +1,4 @@
-package com.tnsif.assignment.employees;
+package com.tnsif.Assignment_1.employees;
 
 /**
  * Manager class extends Employee

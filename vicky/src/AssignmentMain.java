@@ -1,6 +1,6 @@
-import com.tnsif.assignment.employees.Developer;
-import com.tnsif.assignment.employees.Manager;
-import com.tnsif.assignment.utilities.EmployeeUtilities;
+import com.tnsif.Assignment_1.employees.Developer;
+import com.tnsif.Assignment_1.employees.Manager;
+import com.tnsif.Assignment_1.utilities.EmployeeUtilities;
 
 /**
  * Main class to test Employee, Manager, Developer, and EmployeeUtilities

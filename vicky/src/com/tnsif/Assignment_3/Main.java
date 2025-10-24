@@ -1,4 +1,4 @@
-package com.tnsif.Assignment3;
+package com.tnsif.Assignment_3;
 public class Main {
     public static void main(String[] args) {
         // Create accounts

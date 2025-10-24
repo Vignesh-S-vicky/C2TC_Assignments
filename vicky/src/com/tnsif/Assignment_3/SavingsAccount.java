@@ -1,4 +1,4 @@
-package com.tnsif.Assignment3;
+package com.tnsif.Assignment_3;
 public class SavingsAccount extends Account {
     private double interestRate = 0.03; // 3% interest rate
 

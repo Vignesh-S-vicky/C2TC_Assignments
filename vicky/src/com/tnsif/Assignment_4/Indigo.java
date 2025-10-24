@@ -1,14 +1,14 @@
-package com.tnsif.Assignment4;
+package com.tnsif.Assignment_4;
 
-public class KingFisher implements Airfare {
+public class Indigo implements Airfare {
     private Integer hours;
     private Double costPerHour;
 
     // Default Constructor
-    public KingFisher() {}
+    public Indigo() {}
 
     // Parameterized Constructor
-    public KingFisher(Integer hours, Double costPerHour) {
+    public Indigo(Integer hours, Double costPerHour) {
         this.hours = hours;
         this.costPerHour = costPerHour;
     }
@@ -33,7 +33,7 @@ public class KingFisher implements Airfare {
     // Method Implementation
     @Override
     public Double calculateAmount() {
-        return hours * costPerHour * 4;
+        return hours * costPerHour * 8;
     }
 
     @Override

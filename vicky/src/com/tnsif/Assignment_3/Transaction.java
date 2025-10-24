@@ -1,4 +1,4 @@
-package com.tnsif.Assignment3;
+package com.tnsif.Assignment_3;
 public class Transaction {
     // Final variable for transaction fee
     private final double transactionFee = 10.0;

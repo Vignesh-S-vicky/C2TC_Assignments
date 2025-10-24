@@ -1,4 +1,4 @@
-package com.tnsif.Assignment4;
+package com.tnsif.Assignment_4;
 
 public class AirIndia implements Airfare {
     private Integer hours;

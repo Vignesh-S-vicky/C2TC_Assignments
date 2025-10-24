@@ -1,6 +1,6 @@
-package com.tnsif.assignment.utilities;
+package com.tnsif.Assignment_1.utilities;
 
-import com.tnsif.assignment.employees.Employee;
+import com.tnsif.Assignment_1.employees.Employee;
 
 /**
  * Utility class to perform operations on Employee objects
